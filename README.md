@@ -1,7 +1,7 @@
 # <p align="center"><ins><strong>Optical Uniformity Analysis</strong></ins></p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/789bda5c-c305-4d1c-9740-21617c629f64" width="700" alt="Optical Uniformity Analysis"/>
+  <img src="Application.png" width="700" alt="Optical Uniformity Analysis"/>
 </p>
 
 Optical Uniformity Analysis is a desktop application developed to automate the assessment of optical uniformity from large collections of microscopy images.
